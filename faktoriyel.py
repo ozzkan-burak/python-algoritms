@@ -6,4 +6,4 @@ def factorial(num):
     f = f*i
   return f
   
-factorial(4)
+print(factorial(3))
