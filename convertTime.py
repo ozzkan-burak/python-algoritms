@@ -6,4 +6,4 @@ def convertTime(num):
   
   return time + ":" + minuteFormat
   
-print(convertTime(128))
+print(convertTime(8))
